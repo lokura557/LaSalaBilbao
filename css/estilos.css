@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: #fafafa;
+  color: #222;
+}
+
+.cabecera {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #111;
+}
+
+.cabecera a {
+  color: white;
+  text-decoration: none;
+  margin-left: 1rem;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
+main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.eventos {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+}
+
+.tarjeta {
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 1rem;
+}
+
+.pie {
+  text-align: center;
+  padding: 1rem;
+  background-color: #111;
+  color: white;
+}

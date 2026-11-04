@@ -5,7 +5,7 @@ Proyecto en equipo de Despliegue de Aplicaciones Web.
 ## Equipo
 
 <!-- Cada miembro añade aquí una línea con su nombre, su usuario de GitHub y su rol -->
-
+Gorka Baron (Gormiti07) · persona B · Scrum Master
 ## Cómo trabajamos
 
 - `main` es producción: solo se actualiza desde una rama `release/...` o `hotfix/...`.

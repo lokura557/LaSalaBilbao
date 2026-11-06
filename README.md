@@ -5,6 +5,7 @@ Proyecto en equipo de Despliegue de Aplicaciones Web.
 ## Equipo
 
 <!-- Cada miembro añade aquí una línea con su nombre, su usuario de GitHub y su rol -->
+Adrian Marquez (lokura557) · persona A · administrador del repo
 
 ## Cómo trabajamos
 
